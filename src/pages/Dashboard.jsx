@@ -39,11 +39,11 @@ function Dashboard() {
 
   return (
     <>
-    <div className="container">
-      <h1 className="fw-bold">Welcome {person.username}</h1>
-      <hr />
-      <p className="fw-semibold">This is your Dashboard</p>
-    </div>
+      <div className="container">
+        <h1 className="fw-bold">Welcome {person.username}</h1>
+        <hr />
+        <p className="fw-semibold">This is your Dashboard</p>
+      </div>
     </>
   );
 }
