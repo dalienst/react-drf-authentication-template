@@ -1,0 +1,13 @@
+.card-bg {
+  background: #ffd89b;
+  background: -webkit-linear-gradient(to bottom, #19547b, #ffd89b);
+  background: linear-gradient(to bottom, #19547b, #ffd89b);
+}
+
+.recent-bg {
+  background-color: whitesmoke;
+}
+
+.btn-color {
+  background-color: #245549;
+}
